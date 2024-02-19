@@ -6,3 +6,4 @@ This focuses on Git.
 This repository is built step by step in the tutorial.
 
 It now includes steps for github.
+This new file for push to github.
